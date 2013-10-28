@@ -24,7 +24,7 @@
 * 羽毛球、篮球免费包场（在对面的一个小学）
 * 自行车骑行小分队
 
-![office](https://raw.github.com/xiaoronglv/drug_edit_rule/master/media/office.png)
+![office](https://raw.github.com/lirongjun/drug_edit_rule/master/media/office.png)
 
 **我们提供的培训**
 
