@@ -43,7 +43,7 @@
 
 	请在20分钟内将这篇PDF全文按照指南的排版规范排
 
-	[血细胞形态学分析中国专家共识](http://raw.github.com/xiaoronglv/drug_edit_rule/master/media/血细胞形态学分析中国专家共识.pdf)
+	[血细胞形态学分析中国专家共识](http://raw.github.com/lirongjun/drug_edit_rule/master/media/血细胞形态学分析中国专家共识.pdf)
 
 
 
