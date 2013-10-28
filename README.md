@@ -78,15 +78,15 @@ B支6  -> 滨安路江虹路口
 
 ## 学习丁香园编辑规范
 
-1. 下载[药品编辑规范](http://github.com/xiaoronglv/drug_edit_rule/archive/master.zip) 
+1. 下载[药品编辑规范](https://github.com/lirongjun/drug_edit_rule/archive/master.zip) 
 
 2. 使用Markdown编辑软件打开以下文件, 阅读优秀的范例
-	* 如何分段?  eg_paragraph.md
-	* 如何编码? eg_order_list.md
-	* 如何处理嵌套的编码? eg_nested_order_list.md
-	* 如何编码大的段落? eg_order_list_with_paragraph.md
-	* 如何加粗? eg_strong.md
-	* 如何处理无序列表? eg_unorder_list.md
+	* 如何分段?  [eg_paragraph.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_paragraph.md)
+	* 如何编码? [eg_order_list.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_order_list.md)
+	* 如何处理嵌套的编码? [eg_nested_order_list.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_nested_order_list.md)
+	* 如何编码大的段落? [g_order_list_with_paragraph.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_order_list_with_paragraph.md)
+	* 如何加粗? [eg_strong.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_strong.md)
+	* 如何处理无序列表? [eg_unorder_list.md](https://github.com/lirongjun/drug_edit_rule/blob/master/eg_unorder_list.md)
 
 		
 ## 解答4个面试题, 发送给我们
@@ -112,6 +112,11 @@ B支6  -> 滨安路江虹路口
 
 4. 通过笔试考核后, 就可来丁香园参加面试了。
 
+笔试题目：
+[question_1.md](https://github.com/lirongjun/drug_edit_rule/blob/master/question_1.md)
+[question_2.md](https://github.com/lirongjun/drug_edit_rule/blob/master/question_2.md)
+[question_3.md](https://github.com/lirongjun/drug_edit_rule/blob/master/question_3.md)
+[question_4.md](https://github.com/lirongjun/drug_edit_rule/blob/master/question_4.md)
 
 
 ## 更多资料
